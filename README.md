@@ -1,6 +1,4 @@
-# hr-analytics-python
-HR Analytics project using Python, Pandas, Matplotlib, and Seaborn to perform exploratory data analysis (EDA) on employee data, uncovering insights into attrition, salary trends, department-wise distribution, and workforce performance.
-# HR Analytics using Python
+
 
 ## 📌 Project Overview
 This project performs Exploratory Data Analysis (EDA) on HR employee data to uncover valuable insights into workforce trends. Using Python and data visualization libraries, the project analyzes employee attrition, salary distribution, department-wise performance, work mode, and employee status to support data-driven HR decision-making.
